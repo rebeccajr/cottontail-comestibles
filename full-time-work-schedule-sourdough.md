@@ -79,7 +79,7 @@ Qty | Equipment
 
    `#ifndef STAND_MIXER` **If Not Using Stand Mixer**
    - Do not flour surface.
-   - Use the dough scraper to scrape up bits it they get stuck on the surface.
+   - Use the dough scraper to scrape up bits if they get stuck on the surface.
    - You can probably knead for 5 min.
 
    `#ifdef STAND_MIXER` **If Using Stand Mixer**
@@ -94,7 +94,7 @@ Qty | Equipment
 
 1. Split dough in half (for two loaves), and put each dough ball into a container for overnight refridergeration. **Note:** If making 2 loaves, you can also split the dough after refrigeration.
 
-1. Refridgerate overnight.
+1. Refrigerate overnight.
 
 ### Day 2
 
