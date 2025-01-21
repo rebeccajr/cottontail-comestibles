@@ -176,7 +176,7 @@ I try to maintain a minimal amount of starter, and reduce the amount of discard 
 When making a loaf of bread and I transfer the starter to the main mixing bowl, I save the bowl with the starter reminants and:
 
 1. Scrape the reminants of the starter from the side of the bowl.
-1. Mix the starter reminants with equal parts water and flour (about 10-15 g).
+1. Mix the starter reminants with equal parts water and flour (about `10 g`).
 1. Transfer to a clean jar.
 
 #### Starter Lid
@@ -185,20 +185,13 @@ I lightly screw on the lid of the starter jar to allow for air flow.
 
 #### Every Day: Feed A Little, No Discard, New Jar
 
-Every day I feed my starter, I mix equal parts flour and water in the starter jar, then transfer it to a *clean* jar. I don't worry about having an equal part of starter as well.
+Every day I feed my starter, I weigh it, then add equal parts flour and water and transfer it to a *clean* jar. I'm not too concerned with the exact amount of starter, but just make sure the weights of the flour and water are about the same weight as the starter. I will only create discard if my starter goes beyond `100 g`. By my bread making day I need to have `250 g` of active starter, so I will adjust the amounts so that the day before I have about `80-100 g` of starter.
 
-I will add anywhere from `10-50 g` of water and flour no matter how much starter I have (see note). By my bread making day I need to have `250 g` of active starter, so I will adjust the amounts so that the day before I have about `100 g` of starter.
-
-I don't create discard while I'm feeding my starter, I simply feed it with equal parts flour and water then add it to a clean jar or glass bowl.
+This method probably only works if you have very happy starter - so if your starter is less active, you might want to be more precise, always using equal parts starter, flour, and water.
 
 #### Feeding Times
 
-I feed my starter at least once a day, but twice if I remember. If I feed it twice, I will not transfer it to a clean jar until the next feeding. With this method I've never had any issues with mold.
-
-**Notes:**
-
-1. If I find myself with more than `100 g` starter before Day 1, I will discard the rest.
-1. My starter is very active and happy. If your starter is less happy, you might need to do more feeding or mix equal parts starter, flour, and water.
+I feed my starter at least once a day, but twice if I remember. If I feed it twice I don't weigh it and will add the same amount of flour and water as I did previsouly in the day. I will not transfer it to a clean jar until the next feeding. With this method I've never had any issues with mold.
 
 ---
 
